@@ -53,10 +53,6 @@ export default function loadMenu() {
 
 
 
-
- 
-
-
     // adiciona itens dentro do content
     content.appendChild(container);
     container.appendChild(title);

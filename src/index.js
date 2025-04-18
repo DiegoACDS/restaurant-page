@@ -1,7 +1,7 @@
 import "./style.css";
 import loadHome from "./test";
 import loadMenu from "./menu";
-// import loadContact from "./contact";
+import loadContact from "./contact.js";
 
 // const  image = document.createElement("img");
 // image.src = foodImage;
